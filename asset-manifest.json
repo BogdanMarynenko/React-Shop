@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Shop/static/css/main.d48670bd.css",
+    "main.js": "/React-Shop/static/js/main.6577fe17.js",
+    "index.html": "/React-Shop/index.html",
+    "main.d48670bd.css.map": "/React-Shop/static/css/main.d48670bd.css.map",
+    "main.6577fe17.js.map": "/React-Shop/static/js/main.6577fe17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d48670bd.css",
+    "static/js/main.6577fe17.js"
+  ]
+}

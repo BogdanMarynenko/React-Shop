@@ -3,7 +3,7 @@ function Header() {
       <div className="nav-wrapper">
         <a href="#!" className="brand-logo">React-Shop</a>
         <ul id="nav-mobile" className="right hide-on-med-and-down material-icons My-git">
-          <li><a href="https://github.com/BogdanMarynenko/React-Shop.git" target="_blank" rel="noreferrer">reply<a>MY GIT</a></a></li>
+          <li><a href="https://github.com/BogdanMarynenko/React-Shop.git" target="_blank" rel="noreferrer">reply<i>MY GIT</i></a></li>
         </ul>
       </div>
     </nav>

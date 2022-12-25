@@ -3,7 +3,7 @@ function Footer() {
   <div className="footer-copyright">
     <div className="container">
     © {new Date().getFullYear()} Copyright Text
-    <a className="grey-text text-lighten-4 right" href="#!">Repo</a>
+    <a className="grey-text material-icons text-lighten-4 right My-git" href="https://github.com/BogdanMarynenko/React-Shop.git" target="_blank" rel="noreferrer">reply<a>MY GIT</a></a>
     </div>
   </div>
 </footer>

@@ -17,7 +17,14 @@
     + https://materializecss.com/ for css
     + https://fortniteapi.io/ Api shop content
     
-    ___
+       ____
+   
+   ### Iimplemented
+   + GoodsList - all card with product.
+   + BasketList - shopping list.
+   + Cart
+   + Alert - whath product add in Cart.
+   + Preloader.
     
     
     
